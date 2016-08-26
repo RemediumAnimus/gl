@@ -1,0 +1,24 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "dependencies": {
+    "browser-sync": "*",
+    "gulp": "github:gulpjs/gulp#4.0",
+    "gulp-plumber": "*",
+    "gulp-rigger": "*",
+    "gulp-sass": "*",
+    "gulp-watch": "*",
+    "rimraf": "*",
+    "gulp-autoprefixer": "*",
+    "node-sass": "*"
+  },
+  "devDependencies": {
+    "gulp": "github:gulpjs/gulp#4.0",
+    "gulp-connect": "^4.1.0",
+    "gulp-cssmin": "^0.1.7",
+    "gulp-develop-server": "^0.5.2",
+    "gulp-headerfooter": "*",
+    "gulp-minify": "0.0.14",
+    "gulp-uglifyjs": "^0.6.2"
+  }
+}
